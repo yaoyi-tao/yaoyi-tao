@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yaoyi Tao
-Thanks for stopping by.
+- Thanks for stopping by.
 
 <!---
 yaoyi-tao/yaoyi-tao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
