@@ -1,5 +1,6 @@
-### 👋 Hi there, I'm Yaoyi Tao. Thanks for stopping by.
+### 👋 Hi there, I'm 
 
+![Metrics](/github-metrics.svg)
 
 <!---
 yaoyi-tao/yaoyi-tao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
