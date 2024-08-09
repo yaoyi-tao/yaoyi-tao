@@ -29,9 +29,10 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Australia/Sydney
-          
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
+          config_order: base.header, base.activity+community, isocalendar, habits, calendar
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           
           plugin_habits: yes
           plugin_habits_charts_type: classic
@@ -41,6 +42,6 @@ jobs:
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
           plugin_habits_charts: yes
-          
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
